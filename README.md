@@ -1,1 +1,1 @@
-# Logistic-Regression
+# Multi linear regression
